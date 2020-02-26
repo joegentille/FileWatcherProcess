@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ManagingFilesAndDirectories": {
+      "commandName": "Project",
+      "commandLineArgs": "--dir G:\\@ProyectosGeneral\\Pluralsight\\Files\\input TEXT"
+    }
+  }
+}

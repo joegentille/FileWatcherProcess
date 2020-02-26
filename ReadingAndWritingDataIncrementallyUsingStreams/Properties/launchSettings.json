@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ReadingAndWritingDataIncrementallyUsingStreams": {
+      "commandName": "Project",
+      "commandLineArgs": "G:\\@ProyectosGeneral\\Pluralsight\\Files\\input"
+    }
+  }
+}

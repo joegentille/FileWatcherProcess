@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "MonitoringTheFileSystemForChanges": {
+      "commandName": "Project",
+      "commandLineArgs": "G:\\@ProyectosGeneral\\Pluralsight\\Files\\input"
+    }
+  }
+}
